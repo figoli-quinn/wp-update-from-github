@@ -12,4 +12,4 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 use FigoliQuinn\WPUpdateFromGithub\WPUpdateFromGithub;
 
-new WPUpdateFromGithub( 'figoliquinn/wp-update-from-github', __FILE__, 'wp-update-from-github' );
+new WPUpdateFromGithub( 'figoli-quinn/wp-update-from-github', __FILE__, 'wp-update-from-github' );
