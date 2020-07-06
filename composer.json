@@ -1,0 +1,9 @@
+{
+    "name": "figoli-quinn/wp-update-from-github",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FigoliQuinn\\WPUpdateFromGithub\\": "src"
+        }
+    }
+}
